@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-21T10:16:07 IST" name="Default suite" finished-at="2023-06-21T10:16:07 IST" duration-ms="70">
+  <suite started-at="2023-06-21T10:36:47 IST" name="Default suite" finished-at="2023-06-21T10:36:50 IST" duration-ms="2712">
     <groups>
     </groups>
-    <test started-at="2023-06-21T10:16:07 IST" name="Default test" finished-at="2023-06-21T10:16:07 IST" duration-ms="70">
-      <class name="arrayPrograms.CountTheNumberOfElementsRepeatedFromArrayTest">
-        <test-method signature="countElementsRepeated()[pri:0, instance:arrayPrograms.CountTheNumberOfElementsRepeatedFromArrayTest@7494f96a]" started-at="2023-06-21T10:16:07 IST" name="countElementsRepeated" finished-at="2023-06-21T10:16:07 IST" duration-ms="17" status="PASS">
+    <test started-at="2023-06-21T10:36:47 IST" name="Default test" finished-at="2023-06-21T10:36:50 IST" duration-ms="2712">
+      <class name="digitPrograms.FindThePrimeNumberFromGivenNumberTest">
+        <test-method signature="primeNumberMethod()[pri:0, instance:digitPrograms.FindThePrimeNumberFromGivenNumberTest@5c671d7f]" started-at="2023-06-21T10:36:47 IST" name="primeNumberMethod" finished-at="2023-06-21T10:36:50 IST" duration-ms="2655" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- countElementsRepeated -->
-      </class> <!-- arrayPrograms.CountTheNumberOfElementsRepeatedFromArrayTest -->
+        </test-method> <!-- primeNumberMethod -->
+      </class> <!-- digitPrograms.FindThePrimeNumberFromGivenNumberTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
