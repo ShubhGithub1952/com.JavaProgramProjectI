@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="arrayPrograms.CountTheElementsRepeatedFromArrayTest">
+      <class name="stringPrograms.ReverseTheStringFromArrayTest">
         <methods>
-          <include name="countTheElementRepeatedFromArray"/>
+          <include name="ReverseTheStringFromStringArrayMethod"/>
         </methods>
-      </class> <!-- arrayPrograms.CountTheElementsRepeatedFromArrayTest -->
+      </class> <!-- stringPrograms.ReverseTheStringFromArrayTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

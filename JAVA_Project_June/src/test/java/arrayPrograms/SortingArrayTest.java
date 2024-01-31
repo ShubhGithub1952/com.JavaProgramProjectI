@@ -15,7 +15,7 @@ public class SortingArrayTest {
 				} 
 			}
 		}
-		System.out.println("Elements are Sorted in Following order....");
+		System.out.println("Elements are Sorted in Following Ascending order....");
 		for (int i = 0; i < element.length; i++) {
 			System.out.print(element[i]+",");
 		}
@@ -34,7 +34,7 @@ public class SortingArrayTest {
 				} 
 			}
 		}
-		System.out.println("Elements are Sorted in Following order....");
+		System.out.println("Elements are Sorted in Following Descending order....");
 		for (int i = 0; i < element.length; i++) {
 			System.out.print(element[i]+",");
 		}
